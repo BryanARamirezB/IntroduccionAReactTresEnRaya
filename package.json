@@ -1,0 +1,24 @@
+{
+  "name": "introreact_tres_en_raya",
+  "version": "1.0.0",
+  "description": "Trabajo de introducción a react de tres en raya",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BryanARamirezB/IntroduccionAReactTresEnRaya.git"
+  },
+  "keywords": [
+    "tres",
+    "en",
+    "raya"
+  ],
+  "author": "Bryan Alejandro Ramirez Bernal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BryanARamirezB/IntroduccionAReactTresEnRaya/issues"
+  },
+  "homepage": "https://github.com/BryanARamirezB/IntroduccionAReactTresEnRaya#readme"
+}
