@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/build_gato/static/css/main.22941023.css",
+    "main.js": "/build_gato/static/js/main.58cd63ab.js",
+    "index.html": "/build_gato/index.html",
+    "main.22941023.css.map": "/build_gato/static/css/main.22941023.css.map",
+    "main.58cd63ab.js.map": "/build_gato/static/js/main.58cd63ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22941023.css",
+    "static/js/main.58cd63ab.js"
+  ]
+}
